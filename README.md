@@ -8,8 +8,8 @@ I have been learning coding
 
 * 🌍  I'm based in Shikohabad
 * ✉️  You can contact me at [parthsharmatanguriya@gmail.com](mailto:parthsharmatanguriya@gmail.com)
-* 🧠  I'm learning Python Development
-* 🤝  I'm open to collaborating on Python/Django Projects
+* 🧠  I'm working in DevOps
+* 🤝  I'm open to collaborating on DevOps Projects
 * ⚡  I like singing and dancing....wanna join?
 
 <a href="https://www.twitter.com/parthsh93361790" target="_blank" rel="noreferrer"><img
