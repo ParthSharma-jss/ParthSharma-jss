@@ -8,7 +8,7 @@ I have been learning coding
 
 * 🌍  I'm based in Shikohabad
 * ✉️  You can contact me at [parthsharmatanguriya@gmail.com](mailto:parthsharmatanguriya@gmail.com)
-* 🧠  I'm working in DevOps
+* 🧠  I'm working in DevOps in Nagarro.
 * 🤝  I'm open to collaborating on DevOps Projects
 * ⚡  I like singing and dancing....wanna join?
 
